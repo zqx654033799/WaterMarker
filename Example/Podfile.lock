@@ -1,0 +1,16 @@
+PODS:
+  - WaterMarker (0.1.0)
+
+DEPENDENCIES:
+  - WaterMarker (from `../`)
+
+EXTERNAL SOURCES:
+  WaterMarker:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WaterMarker: 7160afc3837bb6a93036cc6e6bc30d79dc43c0ab
+
+PODFILE CHECKSUM: 6d51253cd241e94d72df625751f87d53e8a3c9ed
+
+COCOAPODS: 1.9.1
